@@ -1,3 +1,4 @@
+// https://school.programmers.co.kr/learn/courses/30/lessons/12945
 const limit = 1234567
 
 function solution(n) {
